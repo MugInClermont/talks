@@ -70,7 +70,7 @@ Nous parlons aussi de :
 * Projet de developpement Xamarin
 * Application de programmation d'automates pour les enfants
 
-### http://bit.ly/2Jy9TVc
+### http://bit.ly/MUG-6
 
 ---
 
