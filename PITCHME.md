@@ -40,10 +40,10 @@ Nous parlons aussi de :
 
 ### Les dernières sessions 
 
-* Xamarin => 87
-* .Net Core => 90
-* Le dev dans le monde Microsoft => 76
-* TFS Wonderland => 50
+* Xamarin => 87 pers.
+* .Net Core => 90 pers.
+* Le dev dans le monde Microsoft => 76 pers.
+* TFS Wonderland => 54 pers.
 
 --- 
 
