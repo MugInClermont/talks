@@ -70,7 +70,11 @@ Nous parlons aussi de :
 * Projet de developpement Xamarin
 * Application de programmation d'automates pour les enfants
 
-#### http://bit.ly/MUG-6
+---
+
+### Clermont ClubInfo 22/06
+
+http://bit.ly/MUG-6
 
 ---
 
