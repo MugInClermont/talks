@@ -56,7 +56,7 @@ Nous parlons aussi de :
 
 --- 
 
-### Les prochains sujets : 
+### Les prochains sujets 
 
 * Angular
 * CleanCode, IoT et IA
@@ -64,7 +64,7 @@ Nous parlons aussi de :
 
 ---
 
-### Clermont ClubInfo
+### Clermont ClubInfo 22/06
 
 * Présenté par les étudiants du ClubInfo de Marc Chevaldonné
 * Projet de developpement Xamarin
