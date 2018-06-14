@@ -1,3 +1,3 @@
 theme-override : ../assets/PITCHME.css
-logo: ../assets/logo.jpg
+logo: https://gitlab.com/mug-in-clermont-public/talks/raw/master/assets/logo.jpg
 footnote : "© Mug In Clermont

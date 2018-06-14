@@ -1,4 +1,4 @@
-![Logo](../assets/background.png)
+![Logo](https://gitlab.com/mug-in-clermont-public/talks/raw/master/assets/background.png)
 
 ---
 
