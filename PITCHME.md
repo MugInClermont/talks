@@ -1,6 +1,6 @@
 # MUG In Clermont
 
----- 
+---
 
 ## Qui sommes nous ? 
 
