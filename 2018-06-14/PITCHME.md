@@ -1,5 +1,4 @@
-
-![Logo](background.png)
+![Logo](../assets/background.png)
 
 ---
 
