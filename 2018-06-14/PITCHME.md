@@ -41,6 +41,7 @@ Nous parlons aussi de :
 
 * Xamarin => 87 pers.
 * .Net Core => 90 pers.
+* AI'nnov => 47 pers.
 * Le dev dans le monde Microsoft => 76 pers.
 * TFS Wonderland => 54 pers.
 
