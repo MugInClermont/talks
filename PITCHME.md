@@ -5,7 +5,7 @@
 
 ## Qui sommes nous ? 
 
-* Damien Fourniat (Avanade)
+* Damien Fourniat
 * Jérôme Bolot 
 * Pierre Plagnes
 * Sylvain Le-Gouellec
