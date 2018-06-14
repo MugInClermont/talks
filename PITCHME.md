@@ -1,4 +1,5 @@
-# MUG In Clermont
+
+![Logo](background.png)
 
 ---
 
@@ -39,10 +40,10 @@ Nous parlons aussi de :
 
 ### Les dernières sessions 
 
-* Xamarin => 87 participants
-* .Net Core => 90 participants
-* Le dev dans le monde Microsoft => 76 participants
-* TFS Wonderland => 50 participants
+* Xamarin => 87
+* .Net Core => 90
+* Le dev dans le monde Microsoft => 76
+* TFS Wonderland => 50
 
 --- 
 
