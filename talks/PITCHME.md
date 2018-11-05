@@ -42,9 +42,9 @@ Nous parlons aussi de :
 * M1 - Xamarin (Juin 2017) => 87 pers.
 * M2 - .Net Core (Octobre 2017) => 90 pers.
 * M3 - Michelin AI'nnov (décembre 2017) 
-* M4 - Le dev dans le monde MS (Mars 2018) => 76 pers.
+* M4 - Le dev dans le monde Ms (Mars 2018) => 76 p
 * M5 - TFS Wonderland (Mai 2018) => 54 pers.
-* M6 - Un histoire de container => (Michelin puis IUT)
+* M6 - Un histoire de container => (Michelin, IUT)
 * M7 - Le WPF dans tous ses états => 85 pers.
 
 ---
