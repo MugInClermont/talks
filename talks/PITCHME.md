@@ -12,6 +12,12 @@
 
 ---
 
+## Nos sponsors 
+
+* [CGI](htp://www.cgi.com) : ESN Clermontoise, Plus de 500 personnes en Auvergne
+
+---
+
 ## Nos Objectifs 
 
 Facilitier le partage entre les développeurs auvergnats autour des technologies Microsoft (Mais pas que !)
