@@ -42,9 +42,9 @@ Nous parlons aussi de :
 * M1 - Xamarin (Juin 2017) => 87 pers.
 * M2 - .Net Core (Octobre 2017) => 90 pers.
 * M3 - Michelin AI'nnov (décembre 2017) 
-* M4 - Le dev dans le monde Microsoft (Mars 2018) => 76 pers.
+* M4 - Le dev dans le monde MS (Mars 2018) => 76 pers.
 * M5 - TFS Wonderland (Mai 2018) => 54 pers.
-* M6 - Un histoire de container => 2 sessions (Michelin puis IUT)
+* M6 - Un histoire de container => (Michelin puis IUT)
 * M7 - Le WPF dans tous ses états => 85 pers.
 
 ---
@@ -63,6 +63,15 @@ Clermont ClubInfo (Juin 2018)
 * Des startups
 * Des étudiants (IUT, U'DEV, ISIMA, License)
 * Des employés d'entreprises non-informatique (Michelin, Limagrain, Auber&Duval, Addup)
+
+---
+
+### Liens utiles 
+
+* [Meetup](http://github.com)https://www.meetup.com/fr-FR/MugInClermont/)
+* [Gitlab](https://gitlab.com/mug-in-clermont-public)
+* [Twitter](https://twitter.com/muginclermont)
+* [Slack](https://muginclermont.slack.com/messages)
 
 ---
 
