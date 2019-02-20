@@ -1,6 +1,6 @@
----?image=assets/MUG_Logo.png
-
-+++
-
----?image=assets/Sponsors.png
+# MUG09 
+# Journal d'un dev Java dans un monde .Net
+---
+---?image=assets/sponsors.png
+---
 
