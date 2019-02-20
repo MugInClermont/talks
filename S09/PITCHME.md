@@ -5,7 +5,7 @@
 ![alt text](https://gitlab.com/mug-in-clermont-public/talks/raw/master/S09/assets/sponsors.png "")
 
 ---
-# Evénements IT Auvergnat
+## Evénements 
 
 ### LavaJug
 - 7 conseils pour démarrer avec Spark **(28 Février)**
