@@ -16,6 +16,10 @@
     font-size: 2em;
 }
 
+.reveal section h4 {
+    font-size: 2em;
+    text-align: right;
+}
 .reveal section .primary-title {
     position: absolute;
     background-color: black;
