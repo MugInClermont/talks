@@ -6,9 +6,11 @@
 
 ---
 ## Evénements 
-#### LavaJug
+
+**LavaJug**
 - 7 conseils pour démarrer avec Spark **(28 Février)**
-#### Clermont'ech
+
+**Clermont'ech**
 - LavaJug APIHour #41 **(7 Mars)**
 - Clermontech.php Super Apéro 2019 **(14 Mars)**
 
