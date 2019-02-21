@@ -16,5 +16,12 @@
 
 *https://planet.clermontech.org/*
 
+---
+## Prochains events avec le Mug
+- TypeScript - Sylvain Pontoreau - Bivouac - 21 mars - 
+Coorganisé par les JUG, Clermontech et Bivouac 
+
+- MUG 11 - Xamarin vers des progressives Web App - IUT - 9 avril IUT
+
 
 
