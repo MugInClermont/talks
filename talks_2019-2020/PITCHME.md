@@ -8,7 +8,7 @@ Facilitier le partage entre les développeurs auvergnats autour des technologies
 
 ---
 
-### Le format
+## Le format
 
 * 1 évènement par mois
 * 1 heure de présentation technique
@@ -16,14 +16,20 @@ Facilitier le partage entre les développeurs auvergnats autour des technologies
 
 ---
 
+## Merci !
+
 ![Logo](assets/sponsors.png)
 
 ---
 
-## Nos prochaines dates  
+## Les prochaines dates  
 
+* Devoxx4Kids - 12 Octobre 
 * MUG - 14 Octobre - Code week
+* JUG - 17 Octobre 
+* Clermontech API Hour 23 octobre  
 * MUG - 12 Novembre - PowerBI c'est fun
 * MUG - 5 Décembre - Chatbot sur la plate forme MS
+
 
 
