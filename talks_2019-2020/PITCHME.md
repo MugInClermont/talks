@@ -10,13 +10,11 @@ Facilitier le partage entre les développeurs auvergnats autour des technologies
 
 ### Le format
 
-* 1 évènement tous les mois
+* 1 évènement par mois
 * 1 heure de présentation technique
 * 1 pot offerts par nos sponsors aux participants
 
 ---
-
-## Nos sponsors 
 
 ![Logo](assets/sponsors.png)
 
@@ -27,7 +25,5 @@ Facilitier le partage entre les développeurs auvergnats autour des technologies
 * MUG - 14 Octobre - Code week
 * MUG - 12 Novembre - PowerBI c'est fun
 * MUG - 5 Décembre - Chatbot sur la plate forme MS
-
----
 
 
