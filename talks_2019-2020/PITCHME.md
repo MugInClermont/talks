@@ -16,8 +16,6 @@ Facilitier le partage entre les développeurs auvergnats autour des technologies
 
 ---
 
-## Merci !
-
 ![Logo](assets/sponsors.png)
 
 ---
